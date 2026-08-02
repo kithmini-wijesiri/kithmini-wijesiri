@@ -1,6 +1,8 @@
-<center>
-## Hi there 👋 I'm Kithmini Wijesiri
-</center>
+<h1 align="center">Hi there 👋 I'm Kithmini Wijesiri</h1>
+
+<p align="center">
+  Building generalizable machine learning and deep learning methods for structure-based drug discovery, molecular modeling, and ultra-large virtual screening.
+</p>
 
 ## AI for Drug Discovery • Cheminformatics • Machine Learning • Computational Chemistry
 ### Building scalable and generalizable computational pipelines for drug discovery
