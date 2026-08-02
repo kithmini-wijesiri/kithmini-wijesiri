@@ -6,7 +6,7 @@
 I'm a Computational Chemist, Machine Learning Researcher, and Drug Discovery Scientist with a passion for developing AI-driven computational methods that accelerate the discovery of novel therapeutics. My research bridges computational chemistry, machine learning, and structural biology, with a focus on designing scalable and interpretable workflows for modern drug discovery. I enjoy building computational pipelines that combine molecular modeling, virtual screening, molecular dynamics simulations, QSAR, and artificial intelligence to explore ultra-large chemical spaces and identify promising drug candidates.
 
 ## 🔬 Research Interests
-🧬 AI and Machine Learning for Drug Discovery
+🧬 AI and Machine Learning for Drug Discovery\
 💊 Structure-Based Drug Design (SBDD)
 🧪 Ligand-Based Drug Design (LBDD) and QSAR Modeling
 ⚛️ Molecular Dynamics Simulations
