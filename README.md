@@ -34,19 +34,6 @@ I'm a Computational Chemist, Machine Learning Researcher, and Drug Discovery Sci
 | 💻 **Programming** | Python • Bash • XML • Git • Linux |
 | 🚀 **High-Performance Computing** | SLURM • CUDA • GPU Computing • Parallel Computing • Linux HPC Clusters |
 
-## 🛠️ Technical Skills
-### ML/AI
-Python • PyTorch • Scikit-learn • LightGBM • XGBoost • NN
-### AI for Drug Discovery
-QSAR • Virtual Screening • Structure-Based Drug Design (SBDD) • Ligand-Based Drug Design (LBDD) • Protein–Ligand Binding Affinity Prediction • Molecular Fingerprints • Molecular Descriptors 
-### Scientific Software 
-Schrödinger • Rosetta • GROMACS • AMBER • AutoDock Vina • QuickVina2-GPU • RDKit • Open Babel • MDAnalysis • MDTraj • PyMOL
-### Data Science 
-NumPy • Pandas • SciPy • Matplotlib • Plotly • Jupyter Notebook • SQL/MySQL • Data Visualization • Statistical Analysis • Large-Scale Data Processing
-### Programming 
-Python • bash • XML
-### High-Performance Computing 
-SLURM • GPU Computing (CUDA) 
 
 <!--
 **kithmini-wijesiri/kithmini-wijesiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
