@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Kithmini Wijesiri</h1>
 
 <h3 align="center">
-Building scalable and generalizable computational pipelines for drug discovery
+AI for Drug Discovery • Cheminformatics • Machine Learning • Computational Chemistry
 </h3>
 
 <p align="center">
-AI for Drug Discovery • Cheminformatics • Machine Learning • Computational Chemistry
+Building scalable and generalizable computational pipelines for drug discovery
 </p>
 
 <hr>
