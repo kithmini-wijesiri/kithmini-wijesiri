@@ -15,7 +15,7 @@ I'm a Computational Chemist, Machine Learning Researcher, and Drug Discovery Sci
 🧠 Deep Learning for Computational Chemistry
 
 ## 🛠️ Technical Skills
-# ML/AI : Python • PyTorch • Scikit-learn • LightGBM • XGBoost • NN
+ML/AI : Python • PyTorch • Scikit-learn • LightGBM • XGBoost • NN
 # AI for Drug Discovery : QSAR • Virtual Screening • Structure-Based Drug Design (SBDD) • Ligand-Based Drug Design (LBDD) • Protein–Ligand Binding Affinity Prediction • Molecular Fingerprints • Molecular Descriptors 
 # Scientific Software : Schrödinger • Rosetta • GROMACS • AMBER • AutoDock Vina • QuickVina2-GPU • RDKit • Open Babel • MDAnalysis • MDTraj • PyMOL
 # Data Science : NumPy • Pandas • SciPy • Matplotlib • Plotly • Jupyter Notebook • SQL/MySQL • Data Visualization • Statistical Analysis • Large-Scale Data Processing
