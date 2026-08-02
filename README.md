@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Kithmini Wijesiri</h1>
 
 <p align="center">
-  Building generalizable machine learning and deep learning methods for structure-based drug discovery, molecular modeling, and ultra-large virtual screening.
+  Building scalable and generalizable computational pipelines for drug discovery
 </p>
 
 ## AI for Drug Discovery • Cheminformatics • Machine Learning • Computational Chemistry
-### Building scalable and generalizable computational pipelines for drug discovery
 
 ## 🔬 About Me
 I'm a Computational Chemist, Machine Learning Researcher, and Drug Discovery Scientist with a passion for developing AI-driven computational methods that accelerate the discovery of novel therapeutics. My research bridges computational chemistry, machine learning, and structural biology, with a focus on designing scalable and interpretable workflows for modern drug discovery. I enjoy building computational pipelines that combine molecular modeling, virtual screening, molecular dynamics simulations, QSAR, and artificial intelligence to explore ultra-large chemical spaces and identify promising drug candidates.
