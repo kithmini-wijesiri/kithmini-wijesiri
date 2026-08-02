@@ -7,7 +7,7 @@ I'm a Computational Chemist, Machine Learning Researcher, and Drug Discovery Sci
 
 ## 🔬 Research Interests
 🧬 AI and Machine Learning for Drug Discovery\
-💊 Structure-Based Drug Design (SBDD)\
+💊 Structure-Based Drug Design (SBDD) \
 🧪 Ligand-Based Drug Design (LBDD) and QSAR Modeling\
 ⚛️ Molecular Dynamics Simulations\
 🧫 Protein–Ligand Binding Affinity Prediction\
